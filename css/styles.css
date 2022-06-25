@@ -1,0 +1,17 @@
+body {
+      background-color: cadetblue;
+      }
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    width: 5%;
+    border-width: 6px;
+    border-color: ivory;
+    }
+h3 {
+  color: palegreen;
+  }
+
+h1 {
+  color: palegreen;
+  }
